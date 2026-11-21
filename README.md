@@ -9,8 +9,8 @@
 
 # 🌐 Connect With Me
 📧 Email: vanshgupta20105@gmail.com <br>
-💼 LinkedIn: [(https://www.linkedin.com/in/vansh-gupta9801/)] <br>
-🌟 LeetCode: [(https://leetcode.com/u/Frostfire20/)]
+💼 LinkedIn: https://www.linkedin.com/in/vansh-gupta9801/ <br>
+🌟 LeetCode: https://leetcode.com/u/Frostfire20/
 
 <!--
 **Vanshhh20/Vanshhh20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
