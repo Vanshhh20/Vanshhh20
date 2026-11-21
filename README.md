@@ -1,5 +1,5 @@
-# 💫 About Me:
-# Hi, I'm Vansh Gupta 👋<br><br>🎓 ECE Undergraduate @ IIIT Bhagalpur (2028)<br><br>## 🚀 What I'm Working On<br><br>- 🧠 Strengthening my Data Structures & Algorithms skills<br>- 🌐 Building projects using React and modern web technologies<br>- 📚 Exploring backend development and understanding how systems work end-to-end<br><br>## 🤝 Looking to Collaborate On<br><br>- 🌐 Web Development projects<br>- 💻 Open-source projects<br>- 🚀 Interesting projects involving software development and problem-solving<br><br>### Learning BUG-by-BUG
+#  About Me:
+# Hi, I'm Vansh Gupta <br><br>🎓 ECE Undergraduate @ IIIT Bhagalpur (2028)<br><br>## 🚀 What I'm Working On<br><br>- 🧠 Strengthening my Data Structures & Algorithms skills<br>- 🌐 Building projects using React and modern web technologies<br>- 📚 Exploring backend development and understanding how systems work end-to-end<br><br>## 🤝 Looking to Collaborate On<br><br>- 🌐 Web Development projects<br>- 💻 Open-source projects<br>- 🚀 Interesting projects involving software development and problem-solving<br><br>### Learning BUG-by-BUG
 
 
 ## 🌐 Socials:
