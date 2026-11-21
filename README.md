@@ -8,8 +8,8 @@
 ![](https://streak-stats.demolab.com/?user=Vanshhh20&theme=dark&hide_border=false)<br/>
 
 # 🌐 Connect With Me
-📧 Email: vanshgupta20105@gmail.com
-💼 LinkedIn: [https://www.linkedin.com/in/twinkle-kumari-b09306325/](https://www.linkedin.com/in/vansh-gupta9801/)
+📧 Email: vanshgupta20105@gmail.com <br
+💼 LinkedIn: [https://www.linkedin.com/in/twinkle-kumari-b09306325/](https://www.linkedin.com/in/vansh-gupta9801/) <br
 🌟 LeetCode: [https://leetcode.com/u/twinklekumari2/](https://leetcode.com/u/Frostfire20/)
 
 <!--
